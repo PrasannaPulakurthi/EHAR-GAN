@@ -21,7 +21,7 @@ def find_best_model_checkpoint(checkpoints_dir, best_model_prefix='best_'):
 def main(scene_type,exp_type,seed):
     # Set the random seed for each iteration
     set_random_seed(seed, deterministic=True)
-    cfg = Config.fromfile('./configs/SPIE/i3d_r50_rocog_real_'+scene_type+'_video.py')
+    cfg = Config.fromfile('./configs/RoCoG-v2/i3d_r50_rocog_real_'+scene_type+'_video.py')
     
     # Modify dataset type and path
     cfg.data_root = 'data/rocog_v2_gen'
