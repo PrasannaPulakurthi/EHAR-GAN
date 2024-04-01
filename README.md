@@ -1,3 +1,6 @@
+# Enhancing Human Action Recognition with GAN-based Data Augmentation (EHAR-GAN)
+
+
 
 Original Dataset:
 https://www.cis.jhu.edu/~rocog/data/
