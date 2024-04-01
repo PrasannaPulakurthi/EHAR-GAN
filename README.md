@@ -2,8 +2,6 @@
 
 
 
-Original Dataset:
-https://www.cis.jhu.edu/~rocog/data/
+The original RoCoG-v2 gesture recognition dataset can be found [here](https://www.cis.jhu.edu/~rocog/data/).
 
-Generated Dataset:
-https://drive.google.com/drive/folders/1doikSsW-DDwvzrKFnP0zpmWJzL0uQ_mF?usp=drive_link
+Our generated dataset can be found [here](https://drive.google.com/file/d/1f72ac15Ell_YnNn2nAmw9oKlnRJCXRAi/view?usp=drive_link). All the experiment results can be found [here](https://drive.google.com/file/d/13fvpNH3OOX5sQ-le9U5Mbu44-qyJNrpp/view?usp=drive_link).
