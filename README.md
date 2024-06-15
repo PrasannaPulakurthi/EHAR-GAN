@@ -1,21 +1,23 @@
 # Enhancing Human Action Recognition with GAN-based Data Augmentation (EHAR-GAN)
-Code for our ICASSP 2024 paper "[Enhancing human action recognition with GAN-based data augmentation](https://doi.org/10.1117/12.3021572)".
+Code for our ICASSP 2024 paper "[Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition](https://ieeexplore.ieee.org/document/10446488)".
 
-by [Prasanna Reddy Pulakurthi](https://prasannapulakurthi.com/), [Mahsa Mozaffari](https://mahsamozaffari.com/), [Sohail A. Dianat](https://www.rit.edu/directory/sadeee-sohail-dianat), [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani), [Jamison Heard](https://www.rit.edu/directory/jrheee-jamison-heard), and [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600).
-
+by [Prasanna Reddy Pulakurthi](https://prasannapulakurthi.com/), [Celso M. de Melo](https://celsodemelo.net/), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), and [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani).
 
 Please consider citing our paper in your publications if it helps your research. The following is a BibTeX reference.
 ```bibtex
-@INPROCEEDINGS{10446488,
-  author={Pulakurthi, Prasanna Reddy and Mozaffari, Mahsa and Dianat, Sohail A. and Rabbani, Majid and Heard, Jamison and Rao, Raghuveer},
-  booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  title={Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={7280-7284},
-  keywords={Training;Performance evaluation;Tensors;Image coding;Image synthesis;Image edge detection;Computer architecture;Neural Architecture Search;Maximum Mean Discrepancy;Generative Adversarial Networks},
-  doi={10.1109/ICASSP48485.2024.10446488}
+@inproceedings{10.1117/12.3021572,
+author = {Prasanna Reddy Pulakurthi and Celso  M. De Melo and Raghuveer Rao and Majid Rabbani},
+title = {{Enhancing human action recognition with GAN-based data augmentation}},
+volume = {13035},
+booktitle = {Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications II},
+editor = {Kimberly E. Manser and Christopher L. Howell and Raghuveer M. Rao and Celso De Melo},
+organization = {International Society for Optics and Photonics},
+publisher = {SPIE},
+pages = {130350O},
+keywords = {Human Action Recognition, Generative Adversarial Networks, Deep Neural Networks, Synthetic Data, Data Augmentation},
+year = {2024},
+doi = {10.1117/12.3021572},
+URL = {https://doi.org/10.1117/12.3021572}
 }
 ```
 
