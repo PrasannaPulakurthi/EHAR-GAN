@@ -1,5 +1,5 @@
 # Enhancing Human Action Recognition with GAN-based Data Augmentation (EHAR-GAN)
-Code for our ICASSP 2024 paper "[Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition](https://ieeexplore.ieee.org/document/10446488)".
+Code for our ICASSP 2024 paper "[Enhancing human action recognition with GAN-based data augmentation](https://doi.org/10.1117/12.3021572)".
 
 by [Prasanna Reddy Pulakurthi](https://prasannapulakurthi.com/), [Celso M. de Melo](https://celsodemelo.net/), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), and [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani).
 
