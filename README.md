@@ -3,6 +3,10 @@ Code for our ICASSP 2024 paper "[Enhancing human action recognition with GAN-bas
 
 by [Prasanna Reddy Pulakurthi](https://prasannapulakurthi.com/), [Celso M. de Melo](https://celsodemelo.net/), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), and [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani).
 
+The original RoCoG-v2 gesture recognition dataset can be found [here](https://www.cis.jhu.edu/~rocog/data/).
+
+Our generated dataset can be found [here](https://drive.google.com/file/d/13fvpNH3OOX5sQ-le9U5Mbu44-qyJNrpp/view?usp=sharing). The results of all the experiments can be found [here](https://drive.google.com/file/d/1rYqhvnCbbiCiJiJn48OmtBBDc0etQZ4y/view?usp=sharing).
+
 Please consider citing our paper in your publications if it helps your research. The following is a BibTeX reference.
 ```bibtex
 @inproceedings{10.1117/12.3021572,
@@ -20,7 +24,3 @@ doi = {10.1117/12.3021572},
 URL = {https://doi.org/10.1117/12.3021572}
 }
 ```
-
-The original RoCoG-v2 gesture recognition dataset can be found [here](https://www.cis.jhu.edu/~rocog/data/).
-
-Our generated dataset can be found [here](https://drive.google.com/file/d/13fvpNH3OOX5sQ-le9U5Mbu44-qyJNrpp/view?usp=sharing). The results of all the experiments can be found [here](https://drive.google.com/file/d/1rYqhvnCbbiCiJiJn48OmtBBDc0etQZ4y/view?usp=sharing).
