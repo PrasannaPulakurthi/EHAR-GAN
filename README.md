@@ -11,13 +11,10 @@ Our generated dataset can be found [here](https://drive.google.com/file/d/13fvpN
 | :---: | :---: | 
 |<img src="assets/real2real_ground/S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S01-S01_10m_ground_label1_start1803.gif"/> |
 | Noisy Image | Denoised Output | 
-| :---: | :---: | 
 |<img src="assets/real2real_ground/S02-S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S03-S01_10m_ground_label1_start1803.gif"/> |
 | Noisy Image | Denoised Output | 
-| :---: | :---: | 
 |<img src="assets/real2real_ground/S05-S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S07-S01_10m_ground_label1_start1803.gif"/> |
 | Noisy Image | Denoised Output | 
-| :---: | :---: | 
 |<img src="assets/real2real_ground/S08-S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S10-S01_10m_ground_label1_start1803.gif"/> |
 
 Please consider citing our paper in your publications if it helps your research. The following is a BibTeX reference.
