@@ -7,15 +7,18 @@ The original RoCoG-v2 gesture recognition dataset can be found [here](https://ww
 
 Our generated dataset can be found [here](https://drive.google.com/file/d/13fvpNH3OOX5sQ-le9U5Mbu44-qyJNrpp/view?usp=sharing). The results of all the experiments can be found [here](https://drive.google.com/file/d/1rYqhvnCbbiCiJiJn48OmtBBDc0etQZ4y/view?usp=sharing).
 
+| Original Video | Denoised Output | 
+| :---: | :---: | 
+|<img src="assets/real2real_ground/S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S01-S01_10m_ground_label1_start1803.gif"/> |
 | Noisy Image | Denoised Output | 
 | :---: | :---: | 
-|<img src="assets/real2real_ground/S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S01_10m_ground_label1_start1803.gif"/> |
+|<img src="assets/real2real_ground/S02-S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S03-S01_10m_ground_label1_start1803.gif"/> |
 | Noisy Image | Denoised Output | 
 | :---: | :---: | 
-|<img src="assets/real2real_ground/S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S01_10m_ground_label1_start1803.gif"/> |
+|<img src="assets/real2real_ground/S05-S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S07-S01_10m_ground_label1_start1803.gif"/> |
 | Noisy Image | Denoised Output | 
 | :---: | :---: | 
-|<img src="assets/real2real_ground/S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S01_10m_ground_label1_start1803.gif"/> |
+|<img src="assets/real2real_ground/S08-S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S10-S01_10m_ground_label1_start1803.gif"/> |
 
 Please consider citing our paper in your publications if it helps your research. The following is a BibTeX reference.
 ```bibtex
