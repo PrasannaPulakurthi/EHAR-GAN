@@ -2,7 +2,7 @@
 Code for our **SPIE 2024** paper "**Enhancing human action recognition with GAN-based data augmentation**,"
 by [Prasanna Reddy Pulakurthi](https://www.prasannapulakurthi.com/), [Celso M. de Melo](https://celsodemelo.net/), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), and [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani).
 
-**Keywords:** Human Action Recognition, Generative Adversarial Networks, Deep Neural Networks, Synthetic Data, Data Augmentation
+**Keywords:** Human Action Recognition (HAR), Generative Adversarial Network(GAN), Deep Neural Network (DNN), Synthetic Data, Data Augmentation.
 
 The original RoCoG-v2 gesture recognition dataset can be found [here](https://www.cis.jhu.edu/~rocog/data/).
 
