@@ -1,6 +1,5 @@
 # Enhancing Human Action Recognition with GAN-based Data Augmentation (EHAR-GAN) [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_SPIE_EHAR-GAN.pdf)
-Code for our **SPIE 2024** paper "**Enhancing human action recognition with GAN-based data augmentation**".
-
+Code for our **SPIE 2024** paper "**Enhancing human action recognition with GAN-based data augmentation**,"
 by [Prasanna Reddy Pulakurthi](https://www.prasannapulakurthi.com/), [Celso M. de Melo](https://celsodemelo.net/), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), and [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani).
 
 The original RoCoG-v2 gesture recognition dataset can be found [here](https://www.cis.jhu.edu/~rocog/data/).
