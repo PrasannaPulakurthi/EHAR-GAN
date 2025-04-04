@@ -1,4 +1,4 @@
-# Enhancing Human Action Recognition with GAN-based Data Augmentation (EHAR-GAN) [[PDF](https://drive.google.com/file/d/1Fn94zAarZvmGMEENysssjSLRRwyLM6qJ/view)]
+# Enhancing Human Action Recognition with GAN-based Data Augmentation (EHAR-GAN) [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_SPIE_EHAR-GAN.pdf)
 Code for our ICASSP 2024 paper "[Enhancing human action recognition with GAN-based data augmentation](https://doi.org/10.1117/12.3021572)".
 
 by [Prasanna Reddy Pulakurthi](https://www.prasannapulakurthi.com/), [Celso M. de Melo](https://celsodemelo.net/), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), and [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani).
