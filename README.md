@@ -11,8 +11,14 @@ by [Prasanna Reddy Pulakurthi](https://www.prasannapulakurthi.com/), [Celso M. d
 
 **Keywords:** Human Action Recognition (HAR), Generative Adversarial Network(GAN), Deep Neural Network (DNN), Synthetic Data, Data Augmentation.
 
+## Overview
+**EHAR-GAN** proposes a GAN-based framework for **enhancing human action recognition (HAR)** by generating synthetic gesture videos that vary both **motion** and **appearance**.  
+By augmenting a small-sized real dataset with targeted motion transfer and style variation, we significantly improve HAR performance without requiring complex motion capture setups.
+
+## Dataset
 The original RoCoG-v2 gesture recognition dataset can be found [here](https://www.cis.jhu.edu/~rocog/data/).
 
+## Qualitative Results
 Our generated dataset can be found [here](https://drive.google.com/file/d/1BQeKY65za_sth9QytFmjmsxny9C2z4-E/view?usp=sharing). The results of all the experiments can be found [here](https://drive.google.com/file/d/1hGq0SXFiYJmUaaEMXkE4rDiyMyUPU21_/view?usp=sharing).
 
 | Original Video | Motion Transfer to S01 | Motion Transfer to S02 | Motion Transfer to S03 | 
