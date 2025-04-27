@@ -1,8 +1,8 @@
 # <p align="center">Enhancing Human Action Recognition with GAN-based Data Augmentation (EHAR-GAN)</p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/your-arxiv-id"><img src="https://img.shields.io/badge/arXiv-Preprint-b31b1b.svg" alt="arXiv Preprint"></a>
   <a href="https://doi.org/10.1117/12.3021572"><img src="https://img.shields.io/badge/SPIE-2025-yellow.svg" alt="SPIE 2025"></a>
+  <a href="https://arxiv.org/abs/your-arxiv-id"><img src="https://img.shields.io/badge/arXiv-Preprint-b31b1b.svg" alt="arXiv Preprint"></a>
   <a href="https://paperswithcode.com/paper/enhancing-human-action-recognition-with-gan"><img src="https://img.shields.io/badge/Papers%20with%20Code-EHAR--GAN-blue"></a>
 </p>
 
