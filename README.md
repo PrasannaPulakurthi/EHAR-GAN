@@ -2,9 +2,8 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/your-arxiv-id"><img src="https://img.shields.io/badge/arXiv-Preprint-b31b1b.svg" alt="arXiv Preprint"></a>
-  <a href="https://doi.org/10.1117/12.3021572"><img src="https://img.shields.io/badge/SPIE-2025-orange.svg" alt="SPIE 2025"></a>
+  <a href="https://doi.org/10.1117/12.3021572"><img src="https://img.shields.io/badge/SPIE-2025-yellow.svg" alt="SPIE 2025"></a>
   <a href="https://paperswithcode.com/paper/enhancing-human-action-recognition-with-gan"><img src="https://img.shields.io/badge/Papers%20with%20Code-EHAR--GAN-blue"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC--BY--NC--ND-lightgrey.svg" alt="License: CC BY-NC-ND 4.0"></a>
 </p>
 
 Code for our **SPIE 2024** paper "**Enhancing human action recognition with GAN-based data augmentation**,"
