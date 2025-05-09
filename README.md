@@ -32,18 +32,13 @@ By augmenting a small-sized real dataset with targeted motion transfer and style
 ## Citation
 Please consider citing our paper in your publications if it helps your research. The following is a BibTeX reference.
 ```bibtex
-@inproceedings{10.1117/12.3021572,
-author = {Prasanna Reddy Pulakurthi and Celso  M. De Melo and Raghuveer Rao and Majid Rabbani},
-title = {{Enhancing human action recognition with GAN-based data augmentation}},
-volume = {13035},
-booktitle = {Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications II},
-editor = {Kimberly E. Manser and Christopher L. Howell and Raghuveer M. Rao and Celso De Melo},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {130350O},
-keywords = {Human Action Recognition, Generative Adversarial Networks, Deep Neural Networks, Synthetic Data, Data Augmentation},
-year = {2024},
-doi = {10.1117/12.3021572},
-URL = {https://doi.org/10.1117/12.3021572}
+@inproceedings{pulakurthi2024enhancing,
+  title={Enhancing human action recognition with GAN-based data augmentation},
+  author={Pulakurthi, Prasanna Reddy and De Melo, Celso M and Rao, Raghuveer and Rabbani, Majid},
+  booktitle={Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications II},
+  volume={13035},
+  pages={194--204},
+  year={2024},
+  organization={SPIE}
 }
 ```
