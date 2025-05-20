@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://doi.org/10.1117/12.3021572"><img src="https://img.shields.io/badge/SPIE-2025-yellow.svg" alt="SPIE 2025"></a>
-  <a href="https://arxiv.org/abs/your-arxiv-id"><img src="https://img.shields.io/badge/arXiv-Preprint-b31b1b.svg" alt="arXiv Preprint"></a>
+  <a href="https://prasannapulakurthi.github.io/papers/PDFs/2024_SPIE_EHAR-GAN.pdf"><img src="https://img.shields.io/badge/arXiv-Preprint-b31b1b.svg" alt="Preprint"></a>
   <a href="https://paperswithcode.com/paper/enhancing-human-action-recognition-with-gan"><img src="https://img.shields.io/badge/Papers%20with%20Code-EHAR--GAN-blue"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache-2.0"></a>
 </p>
 
 Code for our **SPIE 2024** paper "**Enhancing human action recognition with GAN-based data augmentation**,"
-by [Prasanna Reddy Pulakurthi](https://www.prasannapulakurthi.com/), [Celso M. de Melo](https://celsodemelo.net/), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), and [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani). [[PDF]](https://doi.org/10.1117/12.3021572)
+by [Prasanna Reddy Pulakurthi](https://www.prasannapulakurthi.com/), [Celso M. de Melo](https://celsodemelo.net/), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), and [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani). [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_SPIE_EHAR-GAN.pdf)
 
 **Keywords:** Human Action Recognition (HAR), Generative Adversarial Network(GAN), Deep Neural Network (DNN), Synthetic Data, Data Augmentation.
 
