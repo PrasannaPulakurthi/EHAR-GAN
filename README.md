@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://doi.org/10.1117/12.3021572"><img src="https://img.shields.io/badge/SPIE-2024-yellow.svg" alt="SPIE 2024"></a>
   <a href="https://prasannapulakurthi.github.io/papers/PDFs/2024_SPIE_EHAR-GAN.pdf"><img src="https://img.shields.io/badge/Preprint-2024-b31b1b.svg" alt="Preprint"></a>
-  <a href="https://paperswithcode.com/paper/enhancing-human-action-recognition-with-gan"><img src="https://img.shields.io/badge/Papers%20with%20Code-EHAR--GAN-blue"></a>
+  <a href="https://huggingface.co/datasets/prasannareddyp/Syn-RoCoG-v2"><img src="https://img.shields.io/badge/HF-Dataset-white.svg" alt="Dataset"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache-2.0"></a>
 </p>
 
