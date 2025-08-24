@@ -19,7 +19,7 @@ By augmenting a small-sized real dataset with targeted motion transfer and style
 ## Datasets
 
 - RoCoG-v2 - [Original RoCoG-v2 Dataset](https://www.cis.jhu.edu/~rocog/data/)
-- Syn-RoCoG-v2 - [Our Generated Synthetic Dataset](https://huggingface.co/datasets/prasannareddyp/Syn-RoCoG-v2)
+- Syn-RoCoG-v2 - [Our Generated Synthetic Dataset](https://drive.google.com/file/d/1BQeKY65za_sth9QytFmjmsxny9C2z4-E/view?usp=sharing)
 
 | Original Video | Motion Transfer to S01 | Motion Transfer to S02 | Motion Transfer to S03 | 
 | :---: | :---: | :---: | :---: | 
