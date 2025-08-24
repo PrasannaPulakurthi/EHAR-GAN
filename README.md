@@ -18,11 +18,12 @@ By augmenting a small-sized real dataset with targeted motion transfer and style
 
 ## Datasets
 
-- [Original RoCoG-v2 Dataset](https://www.cis.jhu.edu/~rocog/data/)
-- [Our Generated Synthetic Dataset](https://huggingface.co/datasets/prasannareddyp/Syn-RoCoG-v2)
-- [Experiment Results](https://drive.google.com/file/d/1hGq0SXFiYJmUaaEMXkE4rDiyMyUPU21_/view?usp=sharing)
+- RoCoG-v2 - [Original RoCoG-v2 Dataset](https://www.cis.jhu.edu/~rocog/data/)
+- Syn-RoCoG-v2 - [Our Generated Synthetic Dataset](https://huggingface.co/datasets/prasannareddyp/Syn-RoCoG-v2)
 
 ## Qualitative Results
+- [Experiment Results](https://drive.google.com/file/d/1hGq0SXFiYJmUaaEMXkE4rDiyMyUPU21_/view?usp=sharing)
+
 | Original Video | Motion Transfer to S01 | Motion Transfer to S02 | Motion Transfer to S03 | 
 | :---: | :---: | :---: | :---: | 
 |<img src="assets/real2real_ground/S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S01-S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S02-S01_10m_ground_label1_start1803.gif"/> | <img src="assets/real2real_ground/S03-S01_10m_ground_label1_start1803.gif"/> |
