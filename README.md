@@ -1,9 +1,9 @@
 # <p align="center">Enhancing Human Action Recognition with GAN-based Data Augmentation (EHAR-GAN)</p>
 
 <p align="center">
+  <a href="https://huggingface.co/datasets/prasannareddyp/Syn-RoCoG-v2"><img src="https://img.shields.io/badge/HF-Dataset-white.svg" alt="Dataset"></a>
   <a href="https://doi.org/10.1117/12.3021572"><img src="https://img.shields.io/badge/SPIE-2024-yellow.svg" alt="SPIE 2024"></a>
   <a href="https://prasannapulakurthi.github.io/papers/PDFs/2024_SPIE_EHAR-GAN.pdf"><img src="https://img.shields.io/badge/Preprint-2024-b31b1b.svg" alt="Preprint"></a>
-  <a href="https://huggingface.co/datasets/prasannareddyp/Syn-RoCoG-v2"><img src="https://img.shields.io/badge/HF-Dataset-white.svg" alt="Dataset"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache-2.0"></a>
 </p>
 
@@ -18,8 +18,8 @@ By augmenting a small-sized real dataset with targeted motion transfer and style
 
 ## Datasets
 
-- RoCoG-v2 - [Original RoCoG-v2 Dataset](https://www.cis.jhu.edu/~rocog/data/)
-- Syn-RoCoG-v2 - [Our Generated Synthetic Dataset](https://drive.google.com/file/d/1BQeKY65za_sth9QytFmjmsxny9C2z4-E/view?usp=sharing)
+- RoCoG-v2 - [[Original RoCoG-v2 Dataset]](https://www.cis.jhu.edu/~rocog/data/)
+- Syn-RoCoG-v2 - [[Hugging Face]](https://huggingface.co/datasets/prasannareddyp/GANSyn-RoCoG-v2) [[Google Drive]](https://drive.google.com/file/d/1BQeKY65za_sth9QytFmjmsxny9C2z4-E/view?usp=sharing)
 
 | Original Video | Motion Transfer to S01 | Motion Transfer to S02 | Motion Transfer to S03 | 
 | :---: | :---: | :---: | :---: | 
